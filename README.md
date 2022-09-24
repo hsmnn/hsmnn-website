@@ -52,5 +52,13 @@ Run the website:
 $ npm start
 ~~~
 
+## Production
 
-oui
+
+Run :  
+```
+cd site
+bundle exec jekyll build
+```
+Then copy the folder "_site" in the "site" folder at the root.  
+Finally you can push this to the preview or production branch.

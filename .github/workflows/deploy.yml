@@ -9,8 +9,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@main
+<<<<<<< HEAD
       #- name: jekyll build
       #  uses: mbursi/jekyll-build-only-action@v1.0.0
+=======
+>>>>>>> main
       - name: sync
         uses: appleboy/scp-action@master
         env:
