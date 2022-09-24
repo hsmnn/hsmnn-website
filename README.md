@@ -1,3 +1,7 @@
+[![website preview](https://github.com/hsmnn/hsmnn-website/actions/workflows/preview.yml/badge.svg)](https://github.com/hsmnn/hsmnn-website/actions/workflows/preview.yml)
+
+[![website deployment](https://github.com/hsmnn/hsmnn-website/actions/workflows/deploy.yml/badge.svg)](https://github.com/hsmnn/hsmnn-website/actions/workflows/deploy.yml)
+
 # Vonge
 
 Vonge is a Personal portfolio/blog site template for Jekyll. Browse through a [live demo](https://jazzed-kale.cloudvent.net/).
