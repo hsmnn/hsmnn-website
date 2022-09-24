@@ -14,9 +14,9 @@ Si vous avez à coeur de me soutenir dans mes études il y a différents moyens 
 >Le nerf de la guerre, c'est la prière !
 
 La deuxième façon est de me soutenir financièrement.
-En effet, tous les frais sont à ma charge : les cours, la chambre, la nourriture, les trajets entre la Suisse et l'Angleterre, bref tout. L'école avec la chambre me coûte 16'300 CHF par année sans compter les frais annexes comme les trajets par exemple.
+En effet, tous les frais sont à ma charge : les cours, la chambre, la nourriture, les trajets entre la Suisse et l'Angleterre, bref tout.
 
-Bien sûr, l'idée est d'utiliser au maximum ma formation de base d'informaticien en travaillant le plus possible. Par exemple, j'ai eu la chance de travailler un mois comme employé dans mon entreprise formatrice juste avant mon départ pour l'Angleterre. Ce qui, avec mes économies, me permet d'assumer financièrement ma première année. Pour financer les deux suivantes, j'espère travailler entre 2 et 3 mois par années. Néanmoins, il manquera de l'argent et c'est là que j'aurai besoin de vous.
+Bien sûr, l'idée est d'utiliser au maximum ma formation de base d'informaticien en travaillant le plus possible. Par exemple, j'ai eu la chance de travailler un mois comme employé dans mon entreprise formatrice juste avant mon départ pour l'Angleterre. Ce qui, avec mes économies, me permet de quasiment assumer ma première année. Pour financer les deux suivantes, j'espère travailler entre 2 et 3 mois par année. Néanmoins, il manquera de l'argent et c'est là que j'aurai besoin de vous.
 
 Ce n'est jamais une situation très agréable que de devoir demander de l'argent à des gens et j'espère que vous comprenez. Je remercie d'ores et déjà tous ceux qui me soutiennent.
 
