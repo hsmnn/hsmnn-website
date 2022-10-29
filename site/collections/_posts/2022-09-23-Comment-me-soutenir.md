@@ -22,4 +22,6 @@ Ce n'est jamais une situation très agréable que de devoir demander de l'argent
 
 Pour ceux que Dieu a convaincu, vous trouverez ci-dessous mes coordonnées bancaires :  
 IBAN : CH23 0900 0000 1221 0187 7  
-Dons par Twint également possibles pour ceux qui ont mon numéro.
+Dons par Twint également possibles pour ceux qui ont mon numéro.  
+Et si vous préférez faire un don anonyme, cliquez sur ce bouton ci-dessous :
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="hsmnn" data-color="#FFDD00" data-emoji=""  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
