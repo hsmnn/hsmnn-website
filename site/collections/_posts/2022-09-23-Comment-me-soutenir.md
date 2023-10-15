@@ -9,7 +9,7 @@ tags:
     - Money
 image: /images/post-finance.jpg
 ---
-Si vous avez à coeur de me soutenir dans mes études il y a différents moyens de le faire. Premièrement vous pouvez prier pour moi. En effet, le nerf de la guerre, c'est la prière et je ne veux pas partir à découvert. Je donnerai donc des sujets de prières dans mes newsletters que je publierai entre 1 fois par mois.
+Si vous avez à coeur de me soutenir dans mes études il y a différents moyens de le faire. Premièrement vous pouvez prier pour moi. En effet, le nerf de la guerre, c'est la prière et je ne veux pas partir à découvert. Je donnerai donc des sujets de prières dans mes newsletters que je publierai une fois par mois.
 
 >Le nerf de la guerre, c'est la prière !
 
