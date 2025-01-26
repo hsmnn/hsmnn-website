@@ -38,7 +38,7 @@ collections:
     output: false
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /blog/:slug/
 
 cloudcannon:
   collections:
