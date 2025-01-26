@@ -52,6 +52,12 @@ Run the website:
 $ npm start
 ~~~
 
+Run the website (Windows)
+
+~~~bash
+$ bundle exec jekyll serve
+~~~
+
 ## Production
 
 
