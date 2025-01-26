@@ -61,7 +61,6 @@ Aelred concept of spiritual friendship could be summarised as a relationship tha
   
   
 # Notes
-  
 [^1]: Lynch, *Ecclesial*, 139.
 [^2]: Wadell, *Becoming*, 97.
 [^3]: Lynch, *Ecclesial*, 140.
